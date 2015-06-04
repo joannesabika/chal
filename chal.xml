@@ -1,6 +1,6 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
   <block type="variables_set" id="344" inline="true" x="186" y="-807">
-    <field name="VAR">item</field>
+    <field name="VAR">number</field>
     <value name="VALUE">
       <block type="logic_compare" id="199" inline="true">
         <field name="OP">EQ</field>
